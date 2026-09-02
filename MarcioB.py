@@ -1,1 +1,1 @@
-print ("Oi gente!")
+print ("Oi gente.")
