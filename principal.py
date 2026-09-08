@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 """Demonstra o uso de saudações em diferentes idiomas.
 
 O script define a classe :class:`Place`, que associa um nome a um idioma
@@ -45,4 +46,8 @@ print("\n\n\n\n")
 
 
 
+=======
+
+print ("Testando git")
+>>>>>>> f890cd77f11abe1e941603421438297bca02e5e8
 
