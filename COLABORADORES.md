@@ -20,6 +20,7 @@ Este projeto utiliza um sistema de branches individual para cada colaborador, fa
 | Roselenesfm01 | `colaborador/Roselenesfm01` |
 | Samoel Santos da Silva Galdino Mendes | `colaborador/Samoel-Santos-da-Silva-Galdino-Mendes` |
 | saulosaopedro | `colaborador/saulosaopedro` |
+suellenk89 | colaborador/suellenk89
 
 ## 🚀 Como usar seu branch
 
